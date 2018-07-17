@@ -25,7 +25,7 @@ instagram_username: dnl1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
